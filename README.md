@@ -86,16 +86,23 @@ broadcast - admin only
 
 ## ❣️Thanks to
 
-<a href="https://t.me/lntechnical">
-   <p> lntechnical TG</p>
+<a href="https://t.me/Freeguysoffl1">
+   <p> FREEGUYSOFFL TG</p>
   </a>
-<a href="https://youtube.com/c/LNtechnical">
-   <p> lntechnical YT </p>
-  </a>
+
+   
+
 
 ## 🤩 INSPIRATION
 
-<a href="https://youtube.com/c/MoTech_YT">
-   <p>❣️ MoTech 🔥</p>
+<a href="https://youtube.com/@freeguystechtamil">
+   <p>❣️ FreeGuysTechTamil 🔥</p>
   </a>
 
+#Deploy to render
+
+<a href="https://render.com/deploy?repo=https://github.com/FGoffl/FG-RENAMER_BOT">
+
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+
+</a>
